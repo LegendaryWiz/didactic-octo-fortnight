@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ojeniceij
 
 
@@ -12,3 +13,6 @@ E
 Ef
 F
 e
+=======
+This must be smth neat.
+>>>>>>> alien-plot
